@@ -48,7 +48,8 @@ export default function QrCheckout() {
       </Head>
 
       <main>
-        <p>Checkout</p>
+        <p>Checkout for Brinkcommerce QR code test. Running on the demo</p>
+
         <p>
           Product: {checkout && <p>{checkout.order_lines.find(p => p.type ==='physical').name}</p>}
         </p>
