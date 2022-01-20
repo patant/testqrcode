@@ -13,6 +13,8 @@ export default function Home() {
 
       <main>
         <h2>This is a small demo with QR code checkout</h2>
+        Products is from Brinkcommerce demo environment.
+        ex.
         Adidas Fun Run Size 39: 656d8323-a629-4316-aa8d-65173d68b8a0
       </main>
     </div>
